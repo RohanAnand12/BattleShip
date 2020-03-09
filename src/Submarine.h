@@ -6,7 +6,7 @@
 
 class Submarine : public Ship{
 public:
-	Submarine();
+	Submarines();
 	virtual ~Submarine();
 
 };

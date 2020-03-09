@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rohan/eclipse-workspace/BattleShip/src/2020HW6.cpp
+iostream
+-
+Tests.h
+C:/Users/rohan/eclipse-workspace/BattleShip/src/Tests.h
+Production.h
+C:/Users/rohan/eclipse-workspace/BattleShip/src/Production.h
+string
+-
+
+C:/Users/rohan/eclipse-workspace/BattleShip/src/Production.h
+
+C:/Users/rohan/eclipse-workspace/BattleShip/src/Tests.h
+
